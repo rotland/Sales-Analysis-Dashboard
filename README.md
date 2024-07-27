@@ -4,7 +4,8 @@
 
 Sales performance analysis involves evaluating various metrics and key performance indicators (KPIs) to understand how well sales activities are performing. understanding sales performance is key to strategic decision-making and business growth. In this project I used Microsoft-BI to create a dashboard for a retail store to see how it’s performing and how healthy its finances are. Using basic data analysis, I find useful insights about sales trends, strengths, and areas that need improvement.
 
-# 
+# ![sales analysis (2)_page-0001](https://github.com/user-attachments/assets/5e73e380-ac5c-4a4b-9c9b-6ba26d54ad12)
+
 
 # About the Analysis
 My goal is to assess sales performance and understand the financial health of the business. These are some of the problems we need to solve for strategic decision making and business growth: 
@@ -127,13 +128,13 @@ Customized my analysis by selecting the specific year(s) of interest.
 1.	Given that furniture accounts for over 37% of total sales, it is crucial to invest in targeted marketing campaigns to further boost its performance.
   
 2.	The notable decline in sales and profit in 2023 warrants a thorough investigation. Identify the underlying causes, such as market conditions, competitive actions, or internal factors, and develop strategies to mitigate these issues. This may include diversifying product offerings, improving customer service, or enhancing sales channels.
-   
-3.	With the West region leading in sales, analyze the strategies that have led to its success and apply similar approaches to other regions. Tailor marketing and sales efforts to the unique characteristics and preferences of each region to maximize sales potential.
 
-5.  understand their needs and preferences better. Engage with customers through surveys, social media, and other platforms to build strong relationships and foster loyalty.
+ 3. With the West region leading in sales, analyze the strategies that have led to its success and apply similar approaches to other regions. Tailor marketing and sales efforts to the unique characteristics and preferences of each region to maximize sales potential.
 
-6.	Stay agile and adaptable to market changes by continuously innovating. Keep an eye on industry trends, technological advancements, and competitor actions to remain competitive and relevant in the market.
-7.	
+5.  Understand their needs and preferences better. Engage with customers through surveys, social media, and other platforms to build strong relationships and foster loyalty.
+
+6.  Tay agile and adaptable to market changes by continuously innovating. Keep an eye on industry trends, technological advancements, and competitor actions to remain competitive and relevant in the market.
+
 
 **Click https://app.powerbi.com/groups/me/reports/dbed92c5-5752-49e6-b925-fb3d8e6b657c/3c972c1ce4a230180020?ctid=7ea7688f-ae82-4587-ab44-ee56ade38051&experience=power-bi to see the dashboard.**
 
