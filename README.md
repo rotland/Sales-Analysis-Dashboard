@@ -1,7 +1,11 @@
 # Sales-Analysis-Dashboard
+
 # Introduction
 
 Sales performance analysis involves evaluating various metrics and key performance indicators (KPIs) to understand how well sales activities are performing. understanding sales performance is key to strategic decision-making and business growth. In this project I used Microsoft-BI to create a dashboard for a retail store to see how it’s performing and how healthy its finances are. Using basic data analysis, I find useful insights about sales trends, strengths, and areas that need improvement.
+
+# 
+
 # About the Analysis
 My goal is to assess sales performance and understand the financial health of the business. These are some of the problems we need to solve for strategic decision making and business growth: 
 
@@ -129,7 +133,9 @@ Customized my analysis by selecting the specific year(s) of interest.
 5.  understand their needs and preferences better. Engage with customers through surveys, social media, and other platforms to build strong relationships and foster loyalty.
 
 6.	Stay agile and adaptable to market changes by continuously innovating. Keep an eye on industry trends, technological advancements, and competitor actions to remain competitive and relevant in the market.
+7.	
 
+**Click https://app.powerbi.com/groups/me/reports/dbed92c5-5752-49e6-b925-fb3d8e6b657c/3c972c1ce4a230180020?ctid=7ea7688f-ae82-4587-ab44-ee56ade38051&experience=power-bi to see the dashboard.**
 
 
 
